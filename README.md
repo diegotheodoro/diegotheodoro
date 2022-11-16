@@ -1,6 +1,6 @@
 ## Olá sou o Diego Theodoro
 
-- 🔭 Atualmente Cursando 5º Semestre em Análise e Desenvolvimento de Sistemas
+- 🔭 Atualmente Cursando 6º Semestre em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando: Java, HTML e CSS.
  
 <div align="center">
