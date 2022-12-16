@@ -1,7 +1,7 @@
 ## Olá sou o Diego Theodoro
 
 - 🔭 Atualmente Cursando 6º Semestre em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando: Java, HTML e CSS.
+- 🌱 Estudando: Java, Spring Boot, HTML e CSS.
  
 <div align="center">
   <a href="https://github.com/diegootheodoro">
